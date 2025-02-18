@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079979791024",
+    "project_id": "kicukobi",
+    "storage_bucket": "kicukobi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079979791024:android:5df99188f208bf2bbf6175",
+        "android_client_info": {
+          "package_name": "com.example.kirekikhabi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-XZ3Xm-rL--3J2_WJMGCeirlVg656ioU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
